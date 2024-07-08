@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Delegates_Practice_01/.vs/Delegates_Practice_01/FileContentIndex
+/Delegates_Practice_01/Delegates_Practice_01/obj/Debug/net8.0
+/Delegates_Practice_01/.vs/Delegates_Practice_01/v17
+/Delegates_Practice_01/Delegates_Practice_01/obj
